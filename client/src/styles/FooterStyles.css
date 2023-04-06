@@ -1,0 +1,27 @@
+#footer {
+    background-color: white;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+
+
+
+#footer a {
+    color: #041C32;
+    text-decoration: none;
+}
+
+a {
+    padding: 0.4rem 0.4rem;
+}
+
+i {
+    padding: 0.4rem 0.4rem;
+}
+
+h5 {
+    padding: 0.4rem 0.4rem;
+}
